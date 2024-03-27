@@ -20,3 +20,4 @@ movie_name=input("Enter the name of the movie you want to take recommendations f
 movies=recommend(movie_name)
 for movie in movies:
     print(movie)
+    
