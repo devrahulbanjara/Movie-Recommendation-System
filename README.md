@@ -1,5 +1,10 @@
 # Movie Recommendation System
+## Introduction
+<div align="center">
 
+![Animate](docs/animate.gif)
+
+</div>
 This project is a **Movie Recommendation System** that provides personalized movie suggestions using the OMDB dataset from Kaggle. It processes and analyzes movie data to recommend movies based on user preferences or movie similarities. The system utilizes various recommendation algorithms such as content-based filtering, enhancing users' movie-watching experience by suggesting relevant titles.
 
 ## Features
